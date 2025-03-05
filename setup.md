@@ -7,7 +7,7 @@
 **Connections:**
 **ULN2003APG PIN DIAGRAM :**
 
-![ssss](https://github.com/user-attachments/assets/53dc2ff6-2e0f-4234-bbc2-815a4b789d98)
+![ssss](https://github.com/user-attachments/assets/89812cd6-715e-4041-b18e-189c7cd13992)
 
 **1. ESP8266 -> ULN2003APG:**
 

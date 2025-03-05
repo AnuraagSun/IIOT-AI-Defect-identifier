@@ -1,8 +1,8 @@
 # IIOT+ AI Defect identifier project
-This project outlines how to build an IIoT (Industrial Internet of Things) system for automated defect detection using a Raspberry Pi, its camera, and OpenCV (or alternative computer vision libraries). The system will capture images of products, analyze them for defects, and optionally separate defective items.  It also includes optional IIoT integration for data logging and remote monitoring.
-
 
 ## Project Overview
+
+This project outlines how to build an IIoT (Industrial Internet of Things) system for automated defect detection using a Raspberry Pi, its camera, and OpenCV (or alternative computer vision libraries). The system will capture images of products, analyze them for defects, and optionally separate defective items.  It also includes optional IIoT integration for data logging and remote monitoring.
 
 ## Table of Contents
 
